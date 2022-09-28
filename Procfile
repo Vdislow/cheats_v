@@ -1,1 +1,1 @@
-web: gunicorn todo_proj.wsgi --log-file -
+web: gunicorn cheats.wsgi --log-file -
